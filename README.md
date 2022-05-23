@@ -17,7 +17,7 @@
 * [リンゴを生成するスクリプト](https://github.com/IwagiMasaki/AppleBreak/blob/main/Assets/ApplePop.cs)
 * [レーンの動きを管理するスクリプト](https://github.com/IwagiMasaki/AppleBreak/blob/main/Assets/LaneTransform.cs)
 * [スタート時のレーン移動](https://github.com/IwagiMasaki/AppleBreak/blob/main/Assets/StartLineTransform.cs)
-*[スコアとコンボ管理（外部スクリプトとの結合部分のみ）](https://github.com/IwagiMasaki/AppleBreak/blob/main/Assets/ScoreAndCombo.cs)
+* [スコアとコンボ管理（外部スクリプトとの結合部分のみ）](https://github.com/IwagiMasaki/AppleBreak/blob/main/Assets/ScoreAndCombo.cs)
 
 ## ストーリー
 リンゴ農家を営んでいるおばあちゃんの手伝いに来たヤンキー
